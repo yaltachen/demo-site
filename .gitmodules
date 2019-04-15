@@ -1,0 +1,3 @@
+[submodule "themes/hugo-material-docs"]
+	path = themes/hugo-material-docs
+	url = http://github.com/john-deng/hugo-material-docs
